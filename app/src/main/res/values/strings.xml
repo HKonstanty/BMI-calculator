@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="GB">Funty i cale</string>
+    <string name="EU">Kg i cm</string>
+    <string name="menu">Menu</string>
+
+    <string name="mass_kg">Mass [kg]:</string>
+    <string name="count_bmi">Count BMI</string>
+    <string name="empty_value">0.00</string>
+    <string name="height_is_empty">Please provide value.</string>
+    <string name="height_cm">Height [cm]</string>
+    <string name="yourBmi">Your BMI</string>
+    <string name="desc">desc</string>
+    <string name="infoOpt">Brawo Twoje BMI jest w normie, trzymaj tak dalej! BMI jest wskaźnikiem, który jest obliczany przez porównanie wzrostu z masą ciała. Jego wartość jest pomocna w ocenie ryzyka wystąpienia chorób związanych z nadwagą takich jak miażdżyca lub choroba niedokrwienna serca. Im mniejsza wartość BMI, tym ryzyko wystąpienia chorób jest mniejsze.</string>
+    <string name="infoOver">Spokojnie nie jest tak źle, ale powinieneś zrzucić kilka kilo! Otyłość jest stanem charakteryzującym się zwiększeniem masy ciała poprzez wzrost ilości tkanki tłuszczowej. BMI jest wskaźnikiem, który jest obliczany przez porównanie wzrostu z masą ciała. Jego wartość jest pomocna w ocenie ryzyka wystąpienia chorób związanych z nadwagą takich jak miażdżyca lub choroba niedokrwienna serca. Im mniejsza wartość BMI, tym ryzyko wystąpienia chorób jest mniejsze.</string>
+    <string name="infoObe">Noo sprawa jest poważna, koniec z lenistewm, musisz się za siebię wziąć! Nadwaga to nagromadzenie tkanki tłuszczowej w organizmie przekraczające optymalne zalecenia zdrowotne. Nadwaga staje się typową cechą w populacjach, gdzie nie ma problemów z brakiem żywności i dominuje styl życia pozbawiony aktywności fizycznej. BMI jest wskaźnikiem, który jest obliczany przez porównanie wzrostu z masą ciała. Jego wartość jest pomocna w ocenie ryzyka wystąpienia chorób związanych z nadwagą takich jak miażdżyca lub choroba niedokrwienna serca. Im mniejsza wartość BMI, tym ryzyko wystąpienia chorób jest mniejsze.</string>
+    <string name="infoUnder">Nie jest źle, pamiętaj lepiej być chudszym niż grubszym. Niedowaga to stan niedoboru masy ciała. Jest to określenie najczęściej odnoszące się do ludzi. BMI jest wskaźnikiem, który jest obliczany przez porównanie wzrostu z masą ciała. Jego wartość jest pomocna w ocenie ryzyka wystąpienia chorób związanych z nadwagą takich jak miażdżyca lub choroba niedokrwienna serca. Im mniejsza wartość BMI, tym ryzyko wystąpienia chorób jest mniejsze.</string>
+    <string name="cl_hist">Clear history</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/GB"
+        android:id="@+id/GB"/>
+    <item android:title="@string/EU"
+        android:id="@+id/EU"/>
+    <item android:title="@string/menu"
+        android:id="@+id/menu"/>
+    <item android:title="@string/cl_hist"
+        android:id="@+id/clear_history"/>
+
+</menu>
