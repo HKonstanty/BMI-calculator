@@ -32,13 +32,13 @@ List the ready features here:
 
 
 ## Screenshots
-###Strona wprowadzania danych
+### Strona wprowadzania danych
 ![](./screenshot/Screenshot_calculator.png)
 
-###Strona ze wskazówkami
+### Strona ze wskazówkami
 ![](./screenshot/Screenshot_details.png)
 
-###Historia BMI
+### Historia BMI
 ![](./screenshot/Screenshot_history.png)
 <!--
 Przegląd głównych ekranów aplikacji
