@@ -32,6 +32,7 @@ List the ready features here:
 
 
 ## Screenshots
+Przegląd głównych ekranów aplikacji
 ### Strona wprowadzania danych
 ![](./screenshot/Screenshot_calculator.png)
 
