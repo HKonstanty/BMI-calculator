@@ -33,7 +33,7 @@ List the ready features here:
 
 ## Screenshots
 ![](./screenshot/Screenshot_calculator.png )
-<img src="./screenshot/Screenshot_calculator.png" width="100">
+<img src="./screenshot/Screenshot_calculator.png" width="400">
 ![](./screenshot/Screenshot_details.png )
 ![](./screenshot/Screenshot_history.png )
 
