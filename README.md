@@ -32,8 +32,9 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./screenshot/Screenshot_calculator.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![](./screenshot/Screenshot_calculator.png | width=100)
+![](./screenshot/Screenshot_details.png | width=100)
+![](./screenshot/Screenshot_history.png | width=100)
 
 
 ## Setup
