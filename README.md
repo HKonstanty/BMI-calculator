@@ -1,2 +1,2 @@
 # BMI-calculator
-Simple application to country BMI.
+Simple application to count BMI.
