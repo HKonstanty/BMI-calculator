@@ -32,6 +32,15 @@ List the ready features here:
 
 
 ## Screenshots
+###Strona wprowadzania danych
+![](./screenshot/Screenshot_calculator.png)
+
+###Strona ze wskazówkami
+![](./screenshot/Screenshot_details.png)
+
+###Historia BMI
+![](./screenshot/Screenshot_history.png)
+<!--
 Przegląd głównych ekranów aplikacji
 Strona wprowadzania danych
 <img src="./screenshot/Screenshot_calculator.png" width="400">
@@ -41,6 +50,7 @@ Strona ze wskazówkami
 
 Historia BMI
 <img src="./screenshot/Screenshot_history.png" width="400">
+-->
 
 ## Setup
 1. Download the samples by cloning this repository
