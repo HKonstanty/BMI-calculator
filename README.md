@@ -32,10 +32,12 @@ List the ready features here:
 
 
 ## Screenshots
-![](./screenshot/Screenshot_calculator.png )
 <img src="./screenshot/Screenshot_calculator.png" width="400">
-![](./screenshot/Screenshot_details.png )
-![](./screenshot/Screenshot_history.png )
+> Strona wprowadzania danych
+<img src="./screenshot/Screenshot_details.png" width="400">
+> Strona ze wskazówkami
+<img src="./screenshot/Screenshot_history.png" width="400">
+> Historia BMI
 
 
 ## Setup
