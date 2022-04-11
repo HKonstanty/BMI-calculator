@@ -33,25 +33,22 @@ List the ready features here:
 
 ## Screenshots
 Application screen overview
-### Data entry form
-![](./screenshot/Screenshot_calculator.png)
 
-### Suggested acctions screen
-![](./screenshot/Screenshot_details.png)
+### Data entry form
+<p align="left">
+	<img src="./screenshot/Screenshot_calculator.png" width="250">
+</p>
+
+### Suggested actions screen)
+<p align="left">
+	<img src="./screenshot/Screenshot_details.png" width="250">
+</p>
 
 ### BMI history
-![](./screenshot/Screenshot_history.png)
-<!--
-Przegląd głównych ekranów aplikacji
-Strona wprowadzania danych
-<img src="./screenshot/Screenshot_calculator.png" width="400">
+<p align="left">
+	<img src="./screenshot/Screenshot_history.png" width="250">
+</p>
 
-Strona ze wskazówkami
-<img src="./screenshot/Screenshot_details.png" width="400">
-
-Historia BMI
-<img src="./screenshot/Screenshot_history.png" width="400">
--->
 
 ## Setup
 1. Download the samples by cloning this repository
