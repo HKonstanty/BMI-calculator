@@ -26,20 +26,20 @@ Simple application on Android to count BMI with Kotlin.
 
 ## Features
 List the ready features here:
-- Obliczanie BMI na podstawie wzrostu i wagi w jednostkach europejskich i brytyjskich
-- Sugerowanie działania na podstawie obliczonego BMI
-- Prowadzenie historii BMI
+- Calculating BMI based on weight and height in european and british units
+- Suggested actions based on BMI
+- Running BMI history
 
 
 ## Screenshots
-Przegląd głównych ekranów aplikacji
-### Strona wprowadzania danych
+Application screen overview
+### Data entry form
 ![](./screenshot/Screenshot_calculator.png)
 
-### Strona ze wskazówkami
+### Suggested acctions screen
 ![](./screenshot/Screenshot_details.png)
 
-### Historia BMI
+### BMI history
 ![](./screenshot/Screenshot_history.png)
 <!--
 Przegląd głównych ekranów aplikacji
@@ -67,10 +67,10 @@ Project is: _complete_
 
 ## Room for Improvement
 Room for improvement:
-- Ikona aplikacji
+- application icon
 
 To do:
-- Sugerowane działania na podstawie historii
+- Suggested actions based on BMI history
 
 
 ## Contact
