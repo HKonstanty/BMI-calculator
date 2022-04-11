@@ -13,7 +13,8 @@ Simple application on Android to count BMI with Kotlin.
 
 
 ## General Information
-
+The application was created in order to calculate BMI based on user's height and weight. It allows to introduce data in european and british units. 
+After calculations, tha app generates an information about the result and gives lifestyle suggestions. The app provides results history with a use of database. 
 
 
 ## Technologies Used
@@ -39,7 +40,7 @@ Application screen overview
 	<img src="./screenshot/Screenshot_calculator.png" width="250">
 </p>
 
-### Suggested actions screen)
+### Suggested actions screen
 <p align="left">
 	<img src="./screenshot/Screenshot_details.png" width="250">
 </p>
